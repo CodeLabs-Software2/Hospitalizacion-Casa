@@ -1,1 +1,9 @@
-Acá se encuentran todos los diagramas
+Descripción de diagramas
+
+Actualizar datos personales paciente
+Figura 1.1: Diagrama de clases del análisis
+Figura 1.2: Diagrama de secuencia del análisis
+
+Consultar historia clínica de paciente
+Figura 2.1: Diagrama de clases del análisis
+Figura 2.2: Diagrama de secuencia del análisis
