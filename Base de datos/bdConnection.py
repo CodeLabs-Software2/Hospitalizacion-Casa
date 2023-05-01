@@ -4,7 +4,7 @@ conexion = psycopg2.connect(
     host="localhost",
     database="HospitalizacionenCasa",
     user="postgres",
-    password="05092001"
+    password="1234"
 )
 
 
